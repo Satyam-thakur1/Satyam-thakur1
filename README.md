@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi there, I'm Satyam Thakur 👋
 
-<!--
-**Satyam-thakur1/Satyam-thakur1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 4th Year B.Tech CSE (SAP) Student
+- 💼 ABAP & Python Developer
+- 🌱 Interested in SAP application development, enterprise solutions, and backend programming
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- SAP ABAP
+- SAP Fiori
+- SAP S/4HANA
+- Python
+- MySQL
+- CDS Views
+- BAPI
+- BDC
+- BAdI
+- Object-Oriented Programming (OOP)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Project
+### SAP ABAP Invoice Management System
+Developed an SAP ABAP report for vendor invoice information management using:
+- BSIK
+- BSAK
+- BKPF
+- BSEG
+- LFA1
+
+Key focus areas:
+- Vendor invoice data retrieval
+- Financial document reporting
+- SAP table integration and processing
+- ABAP-based reporting and analysis
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/satyam-thakur17/
+- Email: satyamthakur1357@gmail.com
+
+## 🎯 Current Focus
+Building skills in SAP ABAP, SAP Fiori, SAP S/4HANA, and Python while exploring enterprise software development and business process automation.
+
+---
+
+⭐ Feel free to explore my repositories and connect with me.
